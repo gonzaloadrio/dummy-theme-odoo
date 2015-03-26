@@ -1,0 +1,8 @@
+<openerp>
+  <data>
+    <template id="snippets" inherit_id="website.snippets" name="Clean Theme snippets">
+      <xpath expr="//div[@id='snippet_structure']" position="inside">
+      </xpath>
+    </template>
+  </data>
+</openerp>
